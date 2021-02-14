@@ -1,1 +1,0 @@
-# SCRIPT-NOPAL
