@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	real = https://arifi Razzaq OFFICIAL
+	fetch = +refs/heads/*:refs/remotes/origin/*
+	remote = origin
+	merge = refs/heads/main
